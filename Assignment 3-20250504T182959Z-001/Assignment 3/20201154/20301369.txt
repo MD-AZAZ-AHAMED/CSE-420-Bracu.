@@ -1,0 +1,9 @@
+Error at line 6: Multiple declaration of variable 'c'
+Error at line 7: Array index is not of integer type : a
+Warning at line 8: Assignment of float value into variable of integer type
+Error at line 9: Modulus operator on non integer type
+Warning at line 9: Assignment of float value into variable of integer type
+Error at line 10: variable is of array type :a
+Error at line 11: variable is of array type :a
+Error at line 12: Undeclared variable 'b'
+Total errors: 8
